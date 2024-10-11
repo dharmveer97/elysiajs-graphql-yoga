@@ -1,8 +1,7 @@
 # Elysia GraphQL Yoga Kickoff
 
-## ✨ Initial Commit
+## ✨ Kickoff for Elysia GraphQL project 🚀
 
-Kickoff for Elysia GraphQL project 🚀
 
 ## Table of Contents
 
@@ -17,8 +16,6 @@ Kickoff for Elysia GraphQL project 🚀
   - [Linting](#linting)
 - [API Documentation](#api-documentation)
 - [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Description
