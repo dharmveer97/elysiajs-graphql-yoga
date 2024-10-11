@@ -1,4 +1,4 @@
-# Elysia GraphQL Yoga Kickoff
+# Kickoff Elysia GraphQL Yoga 
 
 ## ✨ Kickoff for Elysia GraphQL project 🚀
 
